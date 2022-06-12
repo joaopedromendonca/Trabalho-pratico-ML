@@ -650,7 +650,7 @@
     </remotesteps>
     <GUI>
       <xloc>592</xloc>
-      <yloc>224</yloc>
+      <yloc>240</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
